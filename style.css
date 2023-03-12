@@ -1,0 +1,43 @@
+*{
+margin: 0%;
+padding: 0%;
+box-sizing: border-box;
+background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR96e0O81PaKfKDTfBGWz_6Y8uvj3NJ5T8qyjngxK_gkYAosGKtcjGiLzA9s6AtqY-vS6k&usqp=CAU);
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-position: center;
+background-size: cover;
+color: aliceblue;
+}
+
+#Introduction{
+    text-align: center;
+    justify-content: space-between;
+    font-size: large;
+    font-style: italic;
+}
+
+#About {
+    text-align: center;
+    width: 800px;
+    margin: auto;
+    line-height: normal;
+    font-size: large;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  #Outro{
+    text-align: center;
+    width: 800px;
+    margin: auto;
+    line-height: normal;
+  }
+  #submission{
+     border: transparent;
+     color: black;
+     display: flex;
+     padding-bottom: 5px;
+  }
